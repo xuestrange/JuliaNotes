@@ -3,7 +3,7 @@
 这个笔记记录了我在学习Julia时的笔记， 将持续补充新知识， 也欢迎commits
 
 JuliaNotes
-```
+```bash
 ├── 1_数值与运算.ipynb
 ├── 2_控制逻辑.ipynb
 ├── 3_类型系统.ipynb
